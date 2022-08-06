@@ -1,3 +1,5 @@
+![skeleton_programmer](https://user-images.githubusercontent.com/80477606/183260573-fbad9030-bbe1-416f-9bb6-40b2d82fb333.gif)
+![skeleton_programmer](https://user-images.githubusercontent.com/80477606/183260590-b49e0f96-07fb-475f-8cab-86d7856e810d.gif)
 ### Hi there 👋
 
 <!--
@@ -15,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![skeleton_programmer](https://user-images.githubusercontent.com/80477606/183260605-0fa47e69-8263-48d9-845d-56c1731361ed.gif)
