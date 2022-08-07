@@ -1,4 +1,4 @@
-![skeleton_programmer](https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif)
+![skeleton_programmer] (img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif")
 
 <h1 align="center">Hi 👋,I'm Bhavnish Arora</h1>
 <h3 align="center">UI/UX Designer</h3>
