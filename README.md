@@ -6,7 +6,7 @@
 <img align ="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/80477606/183279654-eb732297-8a79-4cd3-a599-034542fdce9f.gif" stye = "display: inline-block; min-width: 100%;">
 
  <br>
-&nbsp;&nbsp;
+ <hr>
 - 🔭 I’m currently working on **React js, Node js and Blender**
 
 - 👯 I’m looking to collaborate on **with other Developers**
