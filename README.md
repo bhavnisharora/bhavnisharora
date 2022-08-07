@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋,I'm Bhavnish Arora</h1>
 <h3 align="center">UI/UX Designer</h3>
 
-<img align ="left" alt="Coding" width="300" src="https://user-images.githubusercontent.com/80477606/183279654-eb732297-8a79-4cd3-a599-034542fdce9f.gif" stye = "display: inline-block; max-width: 100%;">
+<img align ="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/80477606/183279654-eb732297-8a79-4cd3-a599-034542fdce9f.gif" stye = "display: flex; max-width: 100%; padding-bottom:3px;">
 
 - 🔭 I’m currently working on **React js, Node js and Blender**
 
