@@ -1,10 +1,10 @@
 
+<img align ="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif" stye = "display: inline-block; min-width: 100%;">
 
 <h1 align="center">Hi 👋,I'm Bhavnish Arora</h1>
 <h3 align="center">UI/UX Designer</h3>
 <br>
 
-<img align ="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif" stye = "display: inline-block; min-width: 100%;">
 
 - 🔭 I’m currently working on **React js, Node js and Blender**
 
