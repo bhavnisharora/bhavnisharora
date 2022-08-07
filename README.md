@@ -1,3 +1,5 @@
+![skeleton_programmer](https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif)
+
 <h1 align="center">Hi 👋,I'm Bhavnish Arora</h1>
 <h3 align="center">UI/UX Designer</h3>
 
@@ -14,7 +16,7 @@
 <a href="https://twitter.com/bhavnishgakkhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavnishgakkhar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bhavnish-arora-b6398a198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavnish-arora-b6398a198" height="30" width="40" /></a>
 <a href="https://instagram.com/bhaviarora786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bhaviarora786" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucnavygxbhsdvrn1viwxk2qa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnavygxbhsdvrn1viwxk2qa" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCNAVYGxbHsDvRN1ViWxk2qA/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucnavygxbhsdvrn1viwxk2qa" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
