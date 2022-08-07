@@ -10,7 +10,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking for Part-Time Internships on Web Development
 - 🤔 I’m looking to collaborate with Other Developers
 - ⚡ Fun fact: one day for sure I'll fly someday 😉 
-- 
+![download](https://user-images.githubusercontent.com/80477606/183277358-c04a4049-0ea4-4e18-869b-dd2f84db367a.jpg)
+
 Here you can connect with me:
 
 <img src   = "![download]">
