@@ -14,6 +14,8 @@
 
 - ⚡ Fun fact **One day for sure I'll fly someday 😉**
 
+<p align="left"> <a href="https://twitter.com/bhavnishgakkhar" target="blank"><img src="https://img.shields.io/twitter/follow/bhavnishgakkhar?logo=twitter&style=for-the-badge" alt="bhavnishgakkhar" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bhavnishgakkhar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bhavnishgakkhar" height="30" width="40" /></a>
