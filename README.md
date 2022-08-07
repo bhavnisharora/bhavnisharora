@@ -4,10 +4,8 @@
 <h1 align="center">Hi 👋,I'm Bhavnish Arora</h1>
 <h3 align="center">UI/UX Designer</h3>
 
-<img align ="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/80477606/183279654-eb732297-8a79-4cd3-a599-034542fdce9f.gif" stye = "display: flex; max-width: 100%; padding-bottom:3px;">
+<img align ="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/80477606/183279654-eb732297-8a79-4cd3-a599-034542fdce9f.gif" stye = "display: flex; max-width: 100%; margin-bottom:2%;">
 <br>
-<p align="left"> <a href="https://twitter.com/bhavnishgakkhar" target="blank"><img src="https://img.shields.io/twitter/follow/bhavnishgakkhar?logo=twitter&style=for-the-badge" alt="bhavnishgakkhar" /></a> </p>
-
 
 - 🔭 I’m currently working on **React js, Node js and Blender**
 
