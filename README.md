@@ -4,7 +4,7 @@
 <h3 align="center">UI/UX Designer</h3>
 <br>
 
-<img align ="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif" stye = "display: inline-block;">
+<img align ="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/80477606/183278649-4e97bb52-68eb-4942-97dd-b07402533306.gif" stye = "display: inline-block; max-width: 100%;">
 
 
 - 🔭 I’m currently working on **React js, Node js and Blender**
