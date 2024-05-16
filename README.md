@@ -4,9 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Wass+Up!!+👋;+It's+Bhavnish+Arora!;+Passionate+Developer" />
 </h1>
 
-- 🔭 I’m currently working on **Mern Stack**
-
-- 🌱 I’m currently learning **AWS, Data Science**
+- 🔭 I’m currently working on **Mern Stack
 
 - 👯 I’m looking to collaborate on **Projects, Organisations and with Developers.**
 
