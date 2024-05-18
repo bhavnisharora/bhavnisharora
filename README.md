@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.bhavnisharora.in/](https://www.bhavnisharora.in/)
 
-- 💬 Ask me about **Reactjs | Nextjs | Mongodb | Nodejs**
+- 💬 Ask me about **Reactjs | Nextjs | Mongodb | Angularjs | Nodejs**
 
 - 📫 How to reach me **bhavnisharora786@gmail.com**
 
