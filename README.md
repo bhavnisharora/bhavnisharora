@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **bhavnisharora786@gmail.com**
 
-- ⚡ Fun fact **One day for sure I'll fly someday 😉**
+- ⚡ Fun fact **One day for sure I'll fly someday definately 😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
