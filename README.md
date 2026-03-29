@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Projects, Organisations and with Developers.**
 
-- 👨‍💻 All of my projects are available at [https://www.bhavnisharora.in/](https://www.bhavnisharora.in/)
+- 👨‍💻 All of my projects are available at [https://www.bhavnisharora.com/](https://www.bhavnisharora.com/)
 
 - 💬 Ask me about **Reactjs | Nextjs | Mongodb | Angularjs | Nodejs**
 
