@@ -4,9 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Wass+Up!!+👋;+It's+Bhavnish+Arora!;+Passionate+Developer" />
 </h1>
 
-<details>
-<summary>👨‍💻 About Me</summary>
-
 ```javascript
 const bhavnishArora = {
   role: "MERN Stack Developer",
