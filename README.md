@@ -33,8 +33,7 @@ const bhavnishArora = {
 
   lifeMotto: "Relentless by choice, consistent by habit. 🚀"
 };
-</details>
- ```
+```
 
 <!--
 - 🔭 I’m currently working on **Mern Stack**.
