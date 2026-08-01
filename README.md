@@ -4,8 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Heyy+Wass+Up!!+👋;+It's+Bhavnish+Arora!;+Passionate+Developer" />
 </h1>
 
-const mohit = {
-  role: "Mern Stack Developer",
+<details>
+<summary>👨‍💻 About Me</summary>
+
+```javascript
+const bhavnishArora = {
+  role: "MERN Stack Developer",
   experience: "1+ Years",
   location: "India 🇮🇳",
 
@@ -19,7 +23,7 @@ const mohit = {
 
   currentlyLearning: [
     "System Design",
-    "oracle Database",
+    "Oracle Database",
     "DSA"
   ],
 
@@ -30,10 +34,12 @@ const mohit = {
     "📚 Learning New Things"
   ],
 
-  lifeMotto: "Relentless by choice, consistent by habbit :)"
-}
+  lifeMotto: "Relentless by choice, consistent by habit. 🚀"
+};
+</details>
+ ```
 
-/*
+<!--
 - 🔭 I’m currently working on **Mern Stack**.
 
 - 👯 I’m looking to collaborate on **Projects, Organisations and with Developers.**
@@ -46,7 +52,7 @@ const mohit = {
 
 - ⚡ Fun fact **One day for sure I'll fly someday definately 😉**
 
-*/
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
